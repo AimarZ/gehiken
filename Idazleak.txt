@@ -1,0 +1,232 @@
+itemLabel,ikuspenak,imagen
+Ander Izagirre,12,http://commons.wikimedia.org/wiki/Special:FilePath/Ander%20izagirre2.jpg
+Jose Manterola,9,http://commons.wikimedia.org/wiki/Special:FilePath/Jose%20Manterola%20idazlea.jpg
+Aitzpea Goenaga,12,http://commons.wikimedia.org/wiki/Special:FilePath/El%20Instituto%20Vasco%20Etxepare%20renueva%20las%20convocatorias%20de%20ayudas%20para%20la%20difusi%C3%B3n%20exterior%20de%20la%20cultura%20%281%29.jpg
+Karmelo C. Iribarren,11,http://commons.wikimedia.org/wiki/Special:FilePath/Karmelo%20C.%20Iribarren%202.JPG
+Eneko Olasagasti,20,http://commons.wikimedia.org/wiki/Special:FilePath/EnekoOolasagastiArgia.jpg
+Eugenio Ibarzabal,14,http://commons.wikimedia.org/wiki/Special:FilePath/Eugenio%20Ibarzabal.png
+Andoni Sagarna,15,http://commons.wikimedia.org/wiki/Special:FilePath/Andoni%20Sagarna.png
+Aritz Gorrotxategi,62,http://commons.wikimedia.org/wiki/Special:FilePath/Aritz%20Gorrotxategi.JPG
+Enkarni Genua,18,http://commons.wikimedia.org/wiki/Special:FilePath/Enkarni%20Genua.jpg
+Inaki Irazabalbeitia,34,http://commons.wikimedia.org/wiki/Special:FilePath/I%C3%B1aki%20Irazabalbeitia%20donostiarra.jpg
+Dolores Redondo,45,http://commons.wikimedia.org/wiki/Special:FilePath/Dolores%20redondo.jpg
+Ramon Saizarbitoria,252,http://commons.wikimedia.org/wiki/Special:FilePath/Ramon%20Saizarbitoria%20idazlea%202010ean.PNG
+Lurdes Iriondo,3,http://commons.wikimedia.org/wiki/Special:FilePath/Lourdes%20Iriondo%201971%20txiki.jpg
+Indalezio Bizkarrondo,5,http://commons.wikimedia.org/wiki/Special:FilePath/Bilintx.jpg
+Anton Uriarte,3,http://commons.wikimedia.org/wiki/Special:FilePath/Anton%20Uriarte.JPG
+Juan Pablo Fusi,2,http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Pablo%20Fusi%20Aizpurua.jpg
+Jose Gontzalo Zulaika,2,http://commons.wikimedia.org/wiki/Special:FilePath/Aita%20Donostia%20argazkia.jpg
+Arantxa Urretabizkaia,402,http://commons.wikimedia.org/wiki/Special:FilePath/Arantxa%20Urretabizkaia%20%28Pamiela%20argitaletxea%29%20%28cropped%29.jpg
+Fernando Savater,16,http://commons.wikimedia.org/wiki/Special:FilePath/Fernando%20Savater%20by%20Gonzalo%20Merat.jpg
+Miren Azkarate,48,http://commons.wikimedia.org/wiki/Special:FilePath/Bb%2020190405768051Bb%2020190405768051%2010.jpg
+Ignazio Maria Etxaide,12,http://commons.wikimedia.org/wiki/Special:FilePath/Inazio%20Maria%20Etxaide.jpg
+Ibon Sarasola,35,http://commons.wikimedia.org/wiki/Special:FilePath/Ibon%20Sarasola%20%282012%29.jpg
+Karlos Santamaria,23,http://commons.wikimedia.org/wiki/Special:FilePath/Aitona.jpg
+Iban Zaldua,93,http://commons.wikimedia.org/wiki/Special:FilePath/Iban%20Zaldua%20idazlea%202008an.jpg
+Jon Etxaide,3,http://commons.wikimedia.org/wiki/Special:FilePath/Yon%20etxaide.jpg
+Xabier Olarra,3,http://commons.wikimedia.org/wiki/Special:FilePath/Xabier%20Olarra.jpg
+Antonio Zabala,3,http://commons.wikimedia.org/wiki/Special:FilePath/Bi%20bertsolari%20zizurkildarrei%20omena.%207tik%202%20-%2094-164.jpg
+Antonio Maria Labaien,23,http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Maria%20Labaien.jpg
+Andres Urdaneta,171,http://commons.wikimedia.org/wiki/Special:FilePath/Andres%20de%20Urdaneta.jpg
+Patxi Zubizarreta,84,http://commons.wikimedia.org/wiki/Special:FilePath/Patxi%20Zubizarreta.JPG
+Miren Etxezarreta,7,http://commons.wikimedia.org/wiki/Special:FilePath/Miren%20Etxezarreta%2C%20economist.JPG
+Joseba Intxausti,10,http://commons.wikimedia.org/wiki/Special:FilePath/Joseba%20Intxausti%20%28cropped%29.jpg
+Javier Elzo,11,http://commons.wikimedia.org/wiki/Special:FilePath/Javier%20Elzo%20hizketan.jpg
+Nikolas Lekuona,21,http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20de%20lekuona-st-mncars.jpg
+Pepe Artola,16,http://commons.wikimedia.org/wiki/Special:FilePath/Thun%20thun%201894%2007%2008%20pepe%20artola.jpg
+Txema Garcia-Viana,7,http://commons.wikimedia.org/wiki/Special:FilePath/Urnieta-aldea.jpg
+Nerea Sancho,10,http://commons.wikimedia.org/wiki/Special:FilePath/Nerea%20Sancho%202012.jpg
+Ramon Agirre,100,http://commons.wikimedia.org/wiki/Special:FilePath/Ramon%20Agirre%202.jpg
+Mikel Lasa,24,http://commons.wikimedia.org/wiki/Special:FilePath/Mikel%20Lasa.jpg
+Serafin Baroja,11,http://commons.wikimedia.org/wiki/Special:FilePath/Seraf%C3%ADn%20Baroja.png
+Mari Jose Olaziregi,20,http://commons.wikimedia.org/wiki/Special:FilePath/Mari%20Jose%20Olaziregi%20irakasle%20eta%20kritikaria%202011n.jpg
+Rosario Artola,29,http://commons.wikimedia.org/wiki/Special:FilePath/Thun%20thun%201894%2006%2002%20rosario%20artola.jpg
+Katalina Eleizegi,53,http://commons.wikimedia.org/wiki/Special:FilePath/Katalina%20eleizegi%202.jpg
+Mario Salegi,38,http://commons.wikimedia.org/wiki/Special:FilePath/Mario%20Salegi%201997.jpg
+Oier Guillan,45,http://commons.wikimedia.org/wiki/Special:FilePath/Oierguillan.jpg
+Xabier Mendiguren Elizegi,30,http://commons.wikimedia.org/wiki/Special:FilePath/Xabier%20Mendiguren%20Elizegi%20%28Argazki%20Press%20Luis%20Jauregialtzo%29.jpg
+Inazio Mujika,43,http://commons.wikimedia.org/wiki/Special:FilePath/Inazio%20Mujika%20Iraola%20%28Miren%20Mujika%29.jpg
+Joxan Oiz,29,http://commons.wikimedia.org/wiki/Special:FilePath/Joxan%20OIZ.JPG
+Joseba Aurkenerena,40,http://commons.wikimedia.org/wiki/Special:FilePath/Joseba%20Aurkenerena.jpg
+Garazi Goia,34,http://commons.wikimedia.org/wiki/Special:FilePath/Garazi%20Goia%202014.jpg
+Jose Ignazio Ansorena,243,http://commons.wikimedia.org/wiki/Special:FilePath/JoseIgnazioansorenaargia.jpg
+Joxe Austin Arrieta,28,http://commons.wikimedia.org/wiki/Special:FilePath/Joxe%20Austin%20Arrieta%20idazlea.jpg
+Abelino Barriola,13,http://commons.wikimedia.org/wiki/Special:FilePath/Abelino%20barriola.jpg
+Joseba Etxarri,5,http://commons.wikimedia.org/wiki/Special:FilePath/Joseba-Etxarri-2003.jpg
+Joseba Zubimendi,3,http://commons.wikimedia.org/wiki/Special:FilePath/Jose%20zubimendi.jpg
+Toribio Altzaga,23,http://commons.wikimedia.org/wiki/Special:FilePath/ToribioAltzagaBereTaldea.png
+Itziar Zubizarreta,4,http://commons.wikimedia.org/wiki/Special:FilePath/Itziar%20Zubizarreta.jpg
+Vicente Manterola,5,http://commons.wikimedia.org/wiki/Special:FilePath/52570%20N%2016-07-12-22-59-39.jpeg
+Markel Ormazabal,27,http://commons.wikimedia.org/wiki/Special:FilePath/Markel%20Ormazabal.jpg
+Jule Goikoetxea,4,http://commons.wikimedia.org/wiki/Special:FilePath/Jule-Goikoetxea%20Norabidea%20eus%20Argia.jpg
+Sabino Ormazabal,47,http://commons.wikimedia.org/wiki/Special:FilePath/Sabino%20Ormazabal.jpg
+Eneko Barberena,16,http://commons.wikimedia.org/wiki/Special:FilePath/Eneko%20Barberena.%20Idazlea.jpg
+Jabier Muguruza,38,http://commons.wikimedia.org/wiki/Special:FilePath/Concierto%20de%20Javier%20Muguruza%20en%20el%20Instituto%20Cervantes%20de%20Tokio%2001%20%28cropped%29.jpg
+Castor Narvarte,9,http://commons.wikimedia.org/wiki/Special:FilePath/Castor%20Narvarte.jpg
+Baltasar Etxabe Orio,5,http://commons.wikimedia.org/wiki/Special:FilePath/Baltasar%20de%20echave.jpg
+Eduardo Ugarte,2,http://commons.wikimedia.org/wiki/Special:FilePath/Lorca%20y%20Ugarte%20creadores%20de%20la%20Barraca%2C%20con%20el%20uniforme%20de%20la%20compa%C3%B1%C3%ADa%2C%20mono%20azul%20con%20la%20insignia%20dise%C3%B1ada%20por%20Benjam%C3%ADn%20Palencia.%20Vigo%2C%20agosto%20de%201932.jpg
+Fernando Artola,12,http://commons.wikimedia.org/wiki/Special:FilePath/Bordari.jpg
+Abelin Linazisoro,9,http://commons.wikimedia.org/wiki/Special:FilePath/1995-034%20Abelin%20Linazisoro.jpeg
+Esteban Garibai,65,http://commons.wikimedia.org/wiki/Special:FilePath/Esteban%20Garibai.GIF
+Patxi Altuna,26,http://commons.wikimedia.org/wiki/Special:FilePath/Patxi%20Altuna%20euskaltzaina%201989an.jpg
+Gotzon Garate,44,http://commons.wikimedia.org/wiki/Special:FilePath/Gotzon%20Garate.jpg
+Karmelo Etxegarai,15,http://commons.wikimedia.org/wiki/Special:FilePath/Karmelo%20Etxegarai.png
+Fernando Morillo,308,http://commons.wikimedia.org/wiki/Special:FilePath/Fernando%20Morillo.jpg
+Salbatore Mitxelena,41,http://commons.wikimedia.org/wiki/Special:FilePath/Salbatore%20Mitxelena%20Zarauzko%20Hitza.jpg
+Samara Velte,81,http://commons.wikimedia.org/wiki/Special:FilePath/Samara%20Velte.jpg
+Aitziber Etxeberria,20,http://commons.wikimedia.org/wiki/Special:FilePath/Aitziber%20Etxeberria%20Garro.jpg
+Imanol Urbieta,360,http://commons.wikimedia.org/wiki/Special:FilePath/Imanol%20Urbieta%20musikaria.jpg
+Hasier Etxeberria,35,http://commons.wikimedia.org/wiki/Special:FilePath/Hasier%20Etxeberria.jpg
+Imanol Murua Uria,36,http://commons.wikimedia.org/wiki/Special:FilePath/Imanol%20murua-300.jpg
+Jesus Mari Olaizola,23,http://commons.wikimedia.org/wiki/Special:FilePath/Txiliku%201%20%28Paloma%20Gabirondo%20Otermin%29.jpg
+Dionisio Amundarain,8,http://commons.wikimedia.org/wiki/Special:FilePath/Dionisio%20Amundarain.jpg
+Kepa Murua,3,http://commons.wikimedia.org/wiki/Special:FilePath/Kepa%20Murua.jpg
+Danele Sarriugarte,66,http://commons.wikimedia.org/wiki/Special:FilePath/Danele%20Sarriugarte.jpg
+Bertol Arrieta,33,http://commons.wikimedia.org/wiki/Special:FilePath/BertolArrieta-2018.jpg
+Martin Etxeberria,19,http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Etxeberria%20Garro.jpg
+Xabier Etxeberria,3,http://commons.wikimedia.org/wiki/Special:FilePath/Xabier%20Etxeberria%20Garro.jpg
+Jokin Apalategi,39,http://commons.wikimedia.org/wiki/Special:FilePath/Jokin%20Apalategi%20%28cropped%29.jpg
+Koldo Zuazo,123,http://commons.wikimedia.org/wiki/Special:FilePath/Koldo%20Zuazo%20hizkuntzalaria%202011n.jpg
+Toribio Etxebarria,26,http://commons.wikimedia.org/wiki/Special:FilePath/Toribio%20Etxeberria.JPG
+Koldo Mitxelena,174,http://commons.wikimedia.org/wiki/Special:FilePath/Koldo%20Mitxelena-2.jpg
+Fermin Etxegoien,185,http://commons.wikimedia.org/wiki/Special:FilePath/Fermin%20Etxegoien%202010ean.jpg
+Mariasun Landa,146,http://commons.wikimedia.org/wiki/Special:FilePath/Mariasun%20Landa%20%28Natividad%20de%20la%20Puerta%20Rueda%29.jpg
+Karlos Linazasoro,8,http://commons.wikimedia.org/wiki/Special:FilePath/Karlos%20Linazasoro%203%20%28Ander%20Gillenea%29.jpg
+Xabier Elosegi,2,http://commons.wikimedia.org/wiki/Special:FilePath/Xabier%20Elosegi.jpg
+Juan Kruz Igerabide,43,http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Kruz%20Igerabide.JPG
+Xabier Etxaniz Erle,23,http://commons.wikimedia.org/wiki/Special:FilePath/Xabier%20Etxaniz%20Erle%201.png
+Ramos Azkarate,12,http://commons.wikimedia.org/wiki/Special:FilePath/Ramos%20Azkarate%20%28moztua%29.jpg
+Paulo Agirrebaltzategi,19,http://commons.wikimedia.org/wiki/Special:FilePath/AgirrebaltzategiUEU84.jpg
+Luistxo Fernandez,23,http://commons.wikimedia.org/wiki/Special:FilePath/Luistxo%20Fernandez.jpg
+Yurre Ugarte,20,http://commons.wikimedia.org/wiki/Special:FilePath/Yurre%20Ugarte%202013.jpg
+Mikel Arrizabalaga Aizpurua,10,http://commons.wikimedia.org/wiki/Special:FilePath/Mikel%20Arrizabalaga%20%28cropped%29.jpg
+Ramon Artola,16,http://commons.wikimedia.org/wiki/Special:FilePath/R%20artola.png
+Itziar Ugarte,169,http://commons.wikimedia.org/wiki/Special:FilePath/Itziar%20Ugarte%20Irizar.%20kazetari%20eta%20idazle%20o%C3%B1atiarra.jpg
+Nikolas Ormaetxea,3,http://commons.wikimedia.org/wiki/Special:FilePath/Orixe%20idazlea%201933an.jpg
+Antonio Casado da Rocha,12,http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Casado%20da%20Rocha.jpg
+Itziar Ziga,23,http://commons.wikimedia.org/wiki/Special:FilePath/Itziar%20Ziga.jpg
+Joxe Iriarte,15,http://commons.wikimedia.org/wiki/Special:FilePath/Joxe%20Iriarte.jpg
+Joan Mari Irigoien,133,http://commons.wikimedia.org/wiki/Special:FilePath/Joan%20Mari%20Irigoien.jpg
+Juan San Martin,34,http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20San%20Martin%20euskaltzaina%201976an.jpg
+Asier Serrano,73,http://commons.wikimedia.org/wiki/Special:FilePath/Asier%20Serrano%20%28Josu%20Margusino%29.jpg
+Eider Rodriguez,190,http://commons.wikimedia.org/wiki/Special:FilePath/Eider%20Rodriguez%20idazlea%20Baionan%2C%202008an.jpg
+Baleriano Mokoroa,4,http://commons.wikimedia.org/wiki/Special:FilePath/Baleriano%20Mokoroa.png
+Joxemari Iturralde,2,http://commons.wikimedia.org/wiki/Special:FilePath/Joxemari%20Iturralde.jpg
+Andoni Urzelai,9,http://commons.wikimedia.org/wiki/Special:FilePath/Andoni%20Urzelai.jpg
+Antonio Valverde,12,http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20valverde.jpg
+Asun Garikano,22,http://commons.wikimedia.org/wiki/Special:FilePath/Asun%20Garikano%202014.jpg
+Jexuxmari Zalakain,11,http://commons.wikimedia.org/wiki/Special:FilePath/Zalakain2.jpg
+Jon Sarasua,136,http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Sarasua%20bertsolaria%202008an.jpg
+Koldo Izagirre,172,http://commons.wikimedia.org/wiki/Special:FilePath/Koldo%20izagirre%200001.jpg
+Josu Landa,32,http://commons.wikimedia.org/wiki/Special:FilePath/Josu%20Landa%2011tb.png
+Lazkao Txiki,581,http://commons.wikimedia.org/wiki/Special:FilePath/Lazkaotxiki.jpg
+Joxe Azurmendi,87,http://commons.wikimedia.org/wiki/Special:FilePath/Joxe%20Azurmendi.jpg
+Tere Irastortza,49,http://commons.wikimedia.org/wiki/Special:FilePath/Tere%20Irastortza%20%28F.M.%29.jpg
+Maria Elena Arizmendi,3,http://commons.wikimedia.org/wiki/Special:FilePath/Mi%20madre%20Maria%20Elena%20Arizmenmdi%20en%201955.jpg
+Lorea Agirre,48,http://commons.wikimedia.org/wiki/Special:FilePath/Lorea%20Agirre%20full.jpg
+Joxantonio Ormazabal,75,http://commons.wikimedia.org/wiki/Special:FilePath/Joxantonio%20Ormazabal%20%28Maider%20Zapirain%29.jpg
+Inozentzio Olea,16,http://commons.wikimedia.org/wiki/Special:FilePath/Inozentzio%20Olea.jpg
+Klaudio Otaegi,7,http://commons.wikimedia.org/wiki/Special:FilePath/Euskal%20erria%20otaegi%201890.jpg
+Sabina Urraca,3,http://commons.wikimedia.org/wiki/Special:FilePath/Sabina%20Urraca%2002.jpg
+Idoia Otaegi,9,http://commons.wikimedia.org/wiki/Special:FilePath/Otagui-aizpur%C3%BAa-09.jpg
+Ana Terradillos,17,http://commons.wikimedia.org/wiki/Special:FilePath/Ana%20Terradillos.jpg
+Mikel Aiestaran,30,http://commons.wikimedia.org/wiki/Special:FilePath/Cupre%20II%20%2815636851840%29.jpg
+Manuel Urtizberea,5,http://commons.wikimedia.org/wiki/Special:FilePath/Manuel%20Urtizberea.jpg
+Antonio Arzak,8,http://commons.wikimedia.org/wiki/Special:FilePath/Thun%20thun%201894%2009%2023%20antonio%20arzac.jpg
+Itxaso Martin,11,http://commons.wikimedia.org/wiki/Special:FilePath/Itxaso%20martin.jpg
+Edorta Agirre,12,http://commons.wikimedia.org/wiki/Special:FilePath/Edorta%20Agirre.jpg
+Arantza Portabales,8,http://commons.wikimedia.org/wiki/Special:FilePath/Arantza%20Portabales.jpg
+Martin Etxeberria Zuloaga,7,http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Etxeberria%20Zuloaga.jpg
+Maddi Zubeldia,11,http://commons.wikimedia.org/wiki/Special:FilePath/Maddi%20Zubeldia.jpg
+Ana Malagon,47,http://commons.wikimedia.org/wiki/Special:FilePath/Ana%20Malagon.jpg
+Gabriel Celaya,86,http://commons.wikimedia.org/wiki/Special:FilePath/Gabriel%20Celaya%20bere%20lantokian.jpg
+Harkaitz Cano,175,http://commons.wikimedia.org/wiki/Special:FilePath/Harkaitz%20Cano.jpg
+Manuel Lekuona,67,http://commons.wikimedia.org/wiki/Special:FilePath/Manuel%20Lekuona%20%28cropped%29.jpg
+Agustin Kardaberaz,63,http://commons.wikimedia.org/wiki/Special:FilePath/Agustin%20Kardaberaz%20idazlea.png
+Maialen Lujanbio,626,http://commons.wikimedia.org/wiki/Special:FilePath/2017ko%20Bertsolari%20Txapelketa%20Nagusia%20-%20BEC%20-%20Maialen%20txapeldun.jpg
+Jose Maria Iparragirre,728,http://commons.wikimedia.org/wiki/Special:FilePath/Joxe%20Mari%20Iparragirre%20Balerdi.jpg
+Xabier Lete,695,http://commons.wikimedia.org/wiki/Special:FilePath/Xabi%20Lete%201971%20txiki.jpg
+Juan Mari Lekuona,42,http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Mari%20Lekuona%201989an.jpg
+Aitor Arana,84,http://commons.wikimedia.org/wiki/Special:FilePath/Hemeroteka%20Karlos%20del%20Olmo2001%20%28cropped%20to%20Aitor%20Arana%29.jpg
+Sebastian Mendiburu,67,http://commons.wikimedia.org/wiki/Special:FilePath/Oiartzun%2001.JPG
+Inazio Eizmendi,76,http://commons.wikimedia.org/wiki/Special:FilePath/Basarri.jpg
+Maite Pagazaurtundua,10,http://commons.wikimedia.org/wiki/Special:FilePath/Maite%20Pagazaurtundua%20en%20la%20celebraci%C3%B3n%20del%20X%20aniversario%20del%20Centro%20Sefarad-Israel.jpg
+Jon Martin,42,http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Martin%20%28Maddi%20Suarez%29.png
+Amaia Lasa,56,http://commons.wikimedia.org/wiki/Special:FilePath/Amaia%20Lasa%202011.jpg
+Jon Maia,203,http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Maia%20bertsolaria%202008an.jpg
+Ixiar Rozas,26,http://commons.wikimedia.org/wiki/Special:FilePath/Ixiar%20Rozas.jpg
+Joxerra Garzia,210,http://commons.wikimedia.org/wiki/Special:FilePath/Joxerra%20Garzia%202010ean.jpg
+Julen Lekuona,45,http://commons.wikimedia.org/wiki/Special:FilePath/Julen%20Lekuona.jpg
+Joseba Gabilondo,14,http://commons.wikimedia.org/wiki/Special:FilePath/Joseba-gabilondo-argia-1.jpg
+Biktoriano Iraola,21,http://commons.wikimedia.org/wiki/Special:FilePath/Iraola%201.jpg
+Juan Garzia,67,http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Garzia%20%28Argia-Dani%20Blanco%29.jpg
+Pello Lizarralde,33,http://commons.wikimedia.org/wiki/Special:FilePath/1991-Pello%20Lizarralde.jpg
+Antero Apaolaza,5,http://commons.wikimedia.org/wiki/Special:FilePath/Antero%20Apaolaza.jpg
+Antton Kazabon,80,http://commons.wikimedia.org/wiki/Special:FilePath/Antton%20Kazabon.jpg
+Gregorio Arrue,4,http://commons.wikimedia.org/wiki/Special:FilePath/Gregorio%20Arrue%20itzultzailea.png
+Andoni Tolosa,2,http://commons.wikimedia.org/wiki/Special:FilePath/Morau%200001.jpg
+Telesforo Aranzadi,15,http://commons.wikimedia.org/wiki/Special:FilePath/Telesforo%20Aranzadi%20zientzialari%20bergararra.jpg
+Isidro Gil,3,http://commons.wikimedia.org/wiki/Special:FilePath/ISIDRO%20GIL%20GAVILONDO.jpg
+Felipe Juaristi,45,http://commons.wikimedia.org/wiki/Special:FilePath/Felipe%20Juaristi%20%28Teresa%20Santos%29%201.jpg
+Telesforo Monzon,5,http://commons.wikimedia.org/wiki/Special:FilePath/Telesforo%20Monzon%20politikaria%201934an%20%28cropped%29.png
+Bizenta Mogel,394,http://commons.wikimedia.org/wiki/Special:FilePath/Bizenta%20Mogel%20%28plakako%20irudia%29.jpg
+Juan Frantzisko Petriarena,2,http://commons.wikimedia.org/wiki/Special:FilePath/Xenpelar%200001.png
+Nemesio Etxaniz,43,http://commons.wikimedia.org/wiki/Special:FilePath/Nemesio%20Etxaniz%20%282%29.jpg
+Juan Martin Elexpuru,85,http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Martin%20Elexpuru%20idazlea%202009ko%20abenduan.jpg
+Oihana Arana,115,http://commons.wikimedia.org/wiki/Special:FilePath/Oihana%20Arana.%20Poeta.jpg
+Pako Sudupe,17,http://commons.wikimedia.org/wiki/Special:FilePath/Pako%20Sudupe-Egunkaria-%20Gaizka%20iIoz.png
+Eusebio Osa Unamuno,7,http://commons.wikimedia.org/wiki/Special:FilePath/Eusebio%20Osa%20Argia.jpg
+Lander Garro,62,http://commons.wikimedia.org/wiki/Special:FilePath/Lander%20Garro%2C%202012.jpg
+Agustin Telleria,7,http://commons.wikimedia.org/wiki/Special:FilePath/Agust%C3%ADn%20Teller%C3%ADa%201.jpg
+Agustin Arrieta Urtizberea,35,http://commons.wikimedia.org/wiki/Special:FilePath/Agustin%20Arrieta%20Urtizberea.jpg
+Nerea Loiola,75,http://commons.wikimedia.org/wiki/Special:FilePath/Nerea%20Loiola.%20Idazlea.jpg
+Juan Luis Zabala,53,http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Luis%20Zabala%20%28Jon%20Andoni%20Martin%20Gonzalez%29.jpg
+Juan Ramon Makuso,60,http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Ramon%20Makuso.jpg
+Juan Ignazio Uranga,2,http://commons.wikimedia.org/wiki/Special:FilePath/Thun%20thun%201894%2006%2024%20juan%20ignacio%20uranga.jpg
+Kattalin Miner,53,http://commons.wikimedia.org/wiki/Special:FilePath/Kattalin%20Miner%20.jpg
+Ainara Maia,16,http://commons.wikimedia.org/wiki/Special:FilePath/Ainara%20Maya%20Urroz.jpg
+Xabier Aldai,10,http://commons.wikimedia.org/wiki/Special:FilePath/2000-005%20Literatura%20%28cropped%29%20-%20Xabier%20Aldai.jpeg
+Uxue Apaolaza,191,http://commons.wikimedia.org/wiki/Special:FilePath/Uxue%20Apaolaza%202011.jpg
+Imanol Azkue,17,http://commons.wikimedia.org/wiki/Special:FilePath/Imanol%20Azkue.jpg
+Joxe Mari Lopetegi,10,http://commons.wikimedia.org/wiki/Special:FilePath/Joxe%20Mari%20Lopetegi.jpg
+Xabier Etxaniz Rojo,43,http://commons.wikimedia.org/wiki/Special:FilePath/Xabier%20Etxaniz%20Rojo%20idazlea.jpg
+Xabier Gantzarain,20,http://commons.wikimedia.org/wiki/Special:FilePath/XabierGantzarainArgia%28DaniBlanco%29.jpg
+Iratxe Retolaza Gutierrez,60,http://commons.wikimedia.org/wiki/Special:FilePath/Iratxe%20Retolaza%20UEU%202013%2001.jpg
+Jokin Zaitegi,16,http://commons.wikimedia.org/wiki/Special:FilePath/Jokin%20Zaitegi.jpg
+Virginia Gasull,2,http://commons.wikimedia.org/wiki/Special:FilePath/Virginia%20Gasull%202021.jpg
+Karmele Mitxelena,19,http://commons.wikimedia.org/wiki/Special:FilePath/Karmele%20Mitxelena.jpg
+Miren Gorrotxategi,2,http://commons.wikimedia.org/wiki/Special:FilePath/Miren%20Gorrotxategi%20Getxoko%20irakurle%20klubean.jpg
+Markos Zapiain,67,http://commons.wikimedia.org/wiki/Special:FilePath/Markos%20Zapiain%20filosofoa%202009an.jpg
+Pello Otxoteko,34,http://commons.wikimedia.org/wiki/Special:FilePath/Pello%20Otxoteko%20%28Xabier%20Urresti%29.jpg
+Imanol Epelde,21,http://commons.wikimedia.org/wiki/Special:FilePath/Imanol%20Epelde%20Pagola.png
+Pilar Zabala Agirre,3,http://commons.wikimedia.org/wiki/Special:FilePath/Pilar%20Zabala.jpg
+Jon Etxabe,51,http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Etxabe%20idazlea.jpg
+Manuel Olaizola,116,http://commons.wikimedia.org/wiki/Special:FilePath/Basarri%20eta%20Uztapide.jpg
+Mikel Peruarena,18,http://commons.wikimedia.org/wiki/Special:FilePath/Mikel%20Peruarena%20Ansa.jpg
+Joseba Zulaika,12,http://commons.wikimedia.org/wiki/Special:FilePath/Joseba%20Zulaika%20idazle%20eta%20antropologoa.jpg
+Jose Manuel Lujanbio,300,http://commons.wikimedia.org/wiki/Special:FilePath/Txirrita%20eta%20Saiburu%20koloretan.jpg
+Bernardo Atxaga,874,http://commons.wikimedia.org/wiki/Special:FilePath/Bernardo%20Atxaga%20-%2001.jpg
+Anjel Lertxundi,248,http://commons.wikimedia.org/wiki/Special:FilePath/Anjel%20Lertxundi%20idazlea.jpg
+Mikel Atxaga,7,http://commons.wikimedia.org/wiki/Special:FilePath/Mikel%20Atxega%20cropped.jpg
+Antonio Arrue,20,http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Arrue.jpg
+Pako Aristi,118,http://commons.wikimedia.org/wiki/Special:FilePath/Pako%20Aristi.jpg
+Joxan Artze,193,http://commons.wikimedia.org/wiki/Special:FilePath/Joxean%20Artze%20idazlea%202011n.jpg
+Arantxa Iturbe,74,http://commons.wikimedia.org/wiki/Special:FilePath/Arantxa%20Iturbe%20%28Dani%20Blanco%29.jpg
+Felipe Lizaso Eizmendi,12,http://commons.wikimedia.org/wiki/Special:FilePath/Felipe%20Lizaso.jpg
+Patri Urkizu,33,http://commons.wikimedia.org/wiki/Special:FilePath/Patri%20Urkizu.jpg
+Martxel Aizpurua,18,http://commons.wikimedia.org/wiki/Special:FilePath/Martxel%20Aizpurua%20erlezain%2002.png
+Karmele Esnal,13,http://commons.wikimedia.org/wiki/Special:FilePath/Karmele%20Esnal.jpg
+Ramon Etxezarreta,64,http://commons.wikimedia.org/wiki/Special:FilePath/Ramon%20Etxezarreta%202009an.jpg
+Mikela Elizegi,3,http://commons.wikimedia.org/wiki/Special:FilePath/Mikaela%20elizegi.jpg
+Garazi Ugalde,22,http://commons.wikimedia.org/wiki/Special:FilePath/Garazi%20Ugalde.%20Itzultzailea.jpg
+Joseba Arregi,47,http://commons.wikimedia.org/wiki/Special:FilePath/Joseba%20Arregi%20%2896-134%29%20%28cropped%29.jpg
+Garazi Kamio,14,http://commons.wikimedia.org/wiki/Special:FilePath/Garazi%20Kamio%20001.jpg
+Juan Bautista Erro,5,http://commons.wikimedia.org/wiki/Special:FilePath/Erro-magues.jpg
+Ana Jaka,11,http://commons.wikimedia.org/wiki/Special:FilePath/Ana%20Jaka%20en%20Durango.jpg
+Manuel Larramendi,186,http://commons.wikimedia.org/wiki/Special:FilePath/Aita%20Larramendi.jpg
+Martin Ugalde,947,http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Ugalde%20Orradre%2C%20Hondarribiako%20etxean%203%20%2896-172%29.jpg
+Eider Perez,30,http://commons.wikimedia.org/wiki/Special:FilePath/Eider%20P%C3%A9rez.%20Aktorea%2Caurkezlea%2C%20bertsozalea.jpg
+Txomin Garmendia,24,http://commons.wikimedia.org/wiki/Special:FilePath/Campeonato%20de%20bertsolaris%20celebrado%20en%20el%20front%C3%B3n%20Anoeta%20%2810%20de%2017%29%20-%20Fondo%20Mar%C3%ADn-Kutxa%20Fototeka.jpg
+Joxe Manuel Odriozola,26,http://commons.wikimedia.org/wiki/Special:FilePath/Joxe%20Manuel%20Odriozola%202008an.jpg
+Gotzon Egia,18,http://commons.wikimedia.org/wiki/Special:FilePath/Gotzon%20Egia%20lanean%20Amarapedian.jpg
+Txomin San Sebastian,4,http://commons.wikimedia.org/wiki/Special:FilePath/Txomin%20San%20Sebastian.jpg

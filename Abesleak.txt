@@ -1,0 +1,43 @@
+itemLabel,ikuspenak,imagen
+Conchita Montenegro,12,http://commons.wikimedia.org/wiki/Special:FilePath/Conchita%20Montenegro%20Argentinean%20Magazine%20AD%202.jpg
+Amaia Zubiria,265,http://commons.wikimedia.org/wiki/Special:FilePath/Amaia%20zubiria.jpg
+Javier Gurrutxaga,28,http://commons.wikimedia.org/wiki/Special:FilePath/Javier%20Gurruchaga.jpg
+Mikel Laboa,922,http://commons.wikimedia.org/wiki/Special:FilePath/Mikel%20Laboa%20abeslaria.jpg
+Arantza Ezenarro,2,http://commons.wikimedia.org/wiki/Special:FilePath/Arantza%20Ezenarro.%20Abeslaria.%20Sopranoa.jpg
+Xabier San Martin,5,http://commons.wikimedia.org/wiki/Special:FilePath/La%20oreja%20de%20Van%20Gogh%20-%20Rock%20in%20Rio%20Madrid%202012%20-%2033.jpg
+Amaia Montero,37,http://commons.wikimedia.org/wiki/Special:FilePath/Amaia%20Montero%20-%20Rock%20in%20Rio%20Madrid%202012%20-%2007.jpg
+Fermin Muguruza,142,http://commons.wikimedia.org/wiki/Special:FilePath/FerminMuguruza.jpg
+Gari,97,http://commons.wikimedia.org/wiki/Special:FilePath/Gari%20eta%20Patti%20Smith%202008ko%20abenduaren%206an%20Gasteizko%20Artiumen.jpg
+Anari,128,http://commons.wikimedia.org/wiki/Special:FilePath/Berri%20Txarrak%20Lagunartean%20-%20Kobetamendi%20-%202019-07-14%20-%20200.jpg
+Olatz Zugasti,106,http://commons.wikimedia.org/wiki/Special:FilePath/Olatz%20Zugasti%202010.jpg
+Pepita Enbil,20,http://commons.wikimedia.org/wiki/Special:FilePath/Pepita%20Embil%20-%20Soprano%20and%20mother%20of%20Placido%20Domingo.jpg
+Maider Zabalegi,100,http://commons.wikimedia.org/wiki/Special:FilePath/MAIDER%20ZABALEGI%20DKLUBA%20%2840547035033%29.jpg
+Xabier Lete,695,http://commons.wikimedia.org/wiki/Special:FilePath/Xabi%20Lete%201971%20txiki.jpg
+David Azurza,9,http://commons.wikimedia.org/wiki/Special:FilePath/David%20Azurza%202013.jpg
+Miren Iza,4,http://commons.wikimedia.org/wiki/Special:FilePath/Miren%20Iza%2C%20Tulsa%2C%20Concierto%20En%C3%A9rgicas%20de%20Greenpeace%2C%20Madrid%202018%2C%2003.jpg
+Txomin Artola,174,http://commons.wikimedia.org/wiki/Special:FilePath/Txomin%20Artola.jpg
+Paula Etxeberria,112,http://commons.wikimedia.org/wiki/Special:FilePath/TWIN%20MELODY%202018.jpg
+Sorkun,34,http://commons.wikimedia.org/wiki/Special:FilePath/Sorkun%20enlas%20Kontrafiestas%202.jpg
+Lurdes Iriondo,3,http://commons.wikimedia.org/wiki/Special:FilePath/Lourdes%20Iriondo%201971%20txiki.jpg
+Aitana Etxeberria,627,http://commons.wikimedia.org/wiki/Special:FilePath/TWIN%20MELODY%202018.jpg
+Miren Narbaiza,102,http://commons.wikimedia.org/wiki/Special:FilePath/Miren%20Narbaiza%202017.jpg
+Urko Menaia,10,http://commons.wikimedia.org/wiki/Special:FilePath/Urko%20menaia%20001.JPG
+Mursego,44,http://commons.wikimedia.org/wiki/Special:FilePath/Bidehuts-%2010%20urte%20%2827401142489%29.jpg
+Mikel Gorosabel,43,http://commons.wikimedia.org/wiki/Special:FilePath/EHSukarra.jpg
+Xabier Saldias,78,http://commons.wikimedia.org/wiki/Special:FilePath/Xabier%20saldias%20001.jpg
+Juan de Landa,2,http://commons.wikimedia.org/wiki/Special:FilePath/Actress%20Assumpci%C3%B3%20Casals%20and%20Juan%20de%20Landa%20in%20%22Al%20margen%20de%20la%20ley%22%20film%20%281935%29.jpg
+Josu Landa,32,http://commons.wikimedia.org/wiki/Special:FilePath/Josu%20Landa%2011tb.png
+Isuo,15,http://commons.wikimedia.org/wiki/Special:FilePath/Isuo.jpg
+Maixa Lizarribar,82,http://commons.wikimedia.org/wiki/Special:FilePath/Maixa%20eta%20Ixiar%2C%202017.jpg
+Saioa Garin,6,http://commons.wikimedia.org/wiki/Special:FilePath/Saioa%20Garin%202020.jpg
+Karlos Mahoma,30,http://commons.wikimedia.org/wiki/Special:FilePath/Karlos-Mahoma-RIP.jpg
+Miren Arrieta,121,http://commons.wikimedia.org/wiki/Special:FilePath/Miren%20Arrieta.jpg
+Sara Zozaya,42,http://commons.wikimedia.org/wiki/Special:FilePath/Sara%20Zozaya.%20Musikaria.jpg
+Maite Larburu,135,http://commons.wikimedia.org/wiki/Special:FilePath/Maite%20Larburu%202016.jpg
+Ibai Marin,16,http://commons.wikimedia.org/wiki/Special:FilePath/Ibai%20Marin.jpg
+Pelax,18,http://commons.wikimedia.org/wiki/Special:FilePath/Governors%20%2B%20Pelax%20%2839981417221%29.jpg
+Ainara Ortega,12,http://commons.wikimedia.org/wiki/Special:FilePath/Ainara%20Ortega%20Barrenetxea.jpg
+Ines Osinaga,106,http://commons.wikimedia.org/wiki/Special:FilePath/Gose%202012an%20Berriak%2010%20urte%2012.jpg
+Iker Lauroba,307,http://commons.wikimedia.org/wiki/Special:FilePath/Iker%20Lauroba.jpg
+Maddi Zubeldia,11,http://commons.wikimedia.org/wiki/Special:FilePath/Maddi%20Zubeldia.jpg
+Benito Lertxundi,531,http://commons.wikimedia.org/wiki/Special:FilePath/Benito%20Lertxundi%201971.jpg
