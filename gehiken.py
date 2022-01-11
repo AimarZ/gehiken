@@ -21,7 +21,7 @@ def lortuErrenkadaJokuan(fitx="Random"):
         fitx= random.choice(["Idazleak.txt","Aktoreak.txt","Futbolariak.txt","Abesleak.txt"])
         if(fitx=="Idazleak.txt"):
             zenbat=231
-        elif(fitx=="AktoreakIrudiekin.txt"):
+        elif(fitx=="Aktoreak.txt"):
             zenbat=75
         elif(fitx=="Futbolariak.txt"):
             zenbat=105
@@ -126,9 +126,7 @@ def main(fitx="Random"):
     pygame.font.init()
     window = pygame.display.set_mode(windowsize)
     pygame.display.set_caption('Gehiago ala gutxiago?')
-    background = pygame.image.load('gehiken.png')
     window.fill(beltza)
-    window.blit(background, (0, 0)) 
     
 
 
