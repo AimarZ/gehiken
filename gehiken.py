@@ -18,7 +18,7 @@ def lortuErrenkadaJokuan(fitx="Random"):
     elif(fitx=="Abesleak.txt"):
         zenbat=42
     elif(fitx=="Random"):
-        fitx= random.choice(["Idazleak.txt","AktoreakIrudiekin.txt","Futbolariak.txt","Abesleak.txt"])
+        fitx= random.choice(["Idazleak.txt","Aktoreak.txt","Futbolariak.txt","Abesleak.txt"])
         if(fitx=="Idazleak.txt"):
             zenbat=231
         elif(fitx=="AktoreakIrudiekin.txt"):
