@@ -425,5 +425,5 @@ abspath = os.path.abspath(__file__)
 dname = os.path.dirname(abspath)
 os.chdir(dname)
 
-#main("Random")
-main("Aktoreak.txt")
+main("Random")
+#main("Aktoreak.txt")
