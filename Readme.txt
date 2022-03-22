@@ -17,5 +17,9 @@ Herriko aktoreen artikuluak erakusteko aukera dago. Oraingoz, kategoria hau alda
 programako main funtzioaren parametroa aldatu behar da (aurrerago jokuan menu nagusi 
 bat egin daiteke gaia aukeratzeko). Defektuz kategoria guztietako artikuluak hartuko 
 ditu, ausaz.
-	
-	 
+
+GEHIKEN.PY EXEKUTATZEKO BEHARREZKO LIBURUTEGIAK:
+- pygame
+- PIL
+- requests
+
